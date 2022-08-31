@@ -47,8 +47,8 @@ Historie – kurz průvodce Prahou
 <hr>
 
 <h2>REFERENCE</h2>
-_Jiří Báča <br/>CEO Vodafone 2017 - 2018<br/>
-CEO mBank 2007-2009_<br/>
+<i>Jiří Báča <br/>CEO Vodafone 2017 - 2018<br/>
+CEO mBank 2007-2009</i><br/>
 
 S Davidem jsem měl tu radost pracovat při
 budování mBank, stejně jako LutherOne. David
