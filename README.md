@@ -1,6 +1,4 @@
-<hr>
-
-#David Matyáš 
+<h1>David Matyáš</h1> 
 
 Junior Java Developer
 <hr>
@@ -22,7 +20,7 @@ Znalosti v<br/>
 </ul>
 
 
-##PROFIL
+<h2>PROFIL</h2>
 Programování jsem začal studovat
 s obavou, zda to budu zvládat. Po složení
 závěrečné zkoušky vím, že to bylo správné
@@ -43,12 +41,12 @@ programátorů se znalostmi HTML, CSS, SQL
 a agile.
 <hr/>
 
-##KONÍČKY
+<h2>KONÍČKY</h2>
 Lezení<br/>
 Historie – kurz průvodce Prahou
 <hr>
 
-##REFERENCE
+<h2>REFERENCE</h2>
 _Jiří Báča <br/>CEO Vodafone 2017 - 2018<br/>
 CEO mBank 2007-2009_<br/>
 
