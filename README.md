@@ -1,8 +1,8 @@
 <h1>David Matyáš</h1> 
 
 Junior Java Developer
-<hr>
-Absolvent Green Fox Academy - rekvalifikační kurz JAVA - 11 měsíců<br/>
+<h2>PROFIL</h2>
+Absolvent Green Fox Academy - rekvalifikační kurz JAVA - 11 měsíců 10/2021 - 08/2022<br/>
 
 Hlavní oblast studia - **JAVA SE** <br/>
 
@@ -20,7 +20,7 @@ Znalosti v<br/>
 </ul>
 
 
-<h2>PROFIL</h2>
+
 Programování jsem začal studovat
 s obavou, zda to budu zvládat. Po složení
 závěrečné zkoušky vím, že to bylo správné
